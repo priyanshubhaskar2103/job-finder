@@ -3,13 +3,13 @@ import { getAuth, setPersistence, browserLocalPersistence } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAu40HXDFWuhx5W2G5t-h1sUo0U79JF7QM",
-  authDomain: "jobify-b9aab.firebaseapp.com",
-  projectId: "jobify-b9aab",
-  storageBucket: "jobify-b9aab.firebasestorage.app",
-  messagingSenderId: "906247547727",
-  appId: "1:906247547727:web:f33cef2c8d746470fc733a",
-  measurementId: "G-K0F7FWEX7B"
+  apiKey: "AIzaSyC0-Pt9Gcj-PFMvLOA4jlzNnrliI6lVxxI",
+  authDomain: "job-finder-c3d99.firebaseapp.com",
+  projectId: "job-finder-c3d99",
+  storageBucket: "job-finder-c3d99.firebasestorage.app",
+  messagingSenderId: "6128075897",
+  appId: "1:6128075897:web:b4cac81af398a8f21bc0a8",
+  measurementId: "G-BMMNF3ET61"
 };
 
 // Initialize Firebase
