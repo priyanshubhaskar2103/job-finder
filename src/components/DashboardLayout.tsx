@@ -35,7 +35,7 @@ const DashboardLayout = ({ children, title = "Dashboard" }: DashboardLayoutProps
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
                   <Button className="bg-jobify-teal hover:bg-jobify-teal/90 text-white">
-                    Aashish ↓
+                    Priyanshu ↓
                   </Button>
                 </DropdownMenuTrigger>
                 <DropdownMenuContent align="end" className="bg-white">
