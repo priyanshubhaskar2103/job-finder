@@ -7,9 +7,9 @@ import DashboardLayout from "@/components/DashboardLayout";
 
 const Profile = () => {
   const [profileData, setProfileData] = useState({
-    name: "Aashish",
-    lastName: "Rajput",
-    email: "aashishrajput9838@gmail.com",
+    name: "Priyanshu",
+    lastName: "Bhaskar",
+    email: "priyanshubhaskar91@gmail.com",
     location: "greater noida"
   });
 
